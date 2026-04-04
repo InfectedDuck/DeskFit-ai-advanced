@@ -1,0 +1,252 @@
+[
+  {
+    "id": "pt_001",
+    "title": "Monitor Height Rule",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Your monitor's top edge should be at or slightly below eye level. When you look straight ahead with a relaxed neck, your gaze should land on the upper third of the screen. This prevents you from tilting your head up or down, which strains the cervical spine over hours of work.",
+    "quick_fix": "Stack books, a monitor riser, or a ream of paper under your monitor. For laptops, use an external keyboard and elevate the laptop on a stand.",
+    "signs_of_problem": ["Neck pain after 2+ hours of work", "Catching yourself looking down at your screen", "Forward head posture", "Chin poking forward"],
+    "source": "OSHA ergonomic guidelines for computer workstations"
+  },
+  {
+    "id": "pt_002",
+    "title": "Chair Height and Foot Position",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Your chair height should allow your feet to rest flat on the floor with your thighs parallel to the ground. Knees should be at approximately 90 degrees. Feet dangling or legs at sharp angles reduce circulation and increase discomfort during long work sessions.",
+    "quick_fix": "Adjust chair height so thighs are parallel to floor. If your desk is too high and your feet don't reach, use a footrest (even a box or stack of books works).",
+    "signs_of_problem": ["Thigh pressure against chair edge", "Feet dangling or on tiptoes", "Knee pain", "Leg numbness after sitting"],
+    "source": "Ergonomic seating standards ISO 9241"
+  },
+  {
+    "id": "pt_003",
+    "title": "Keyboard and Mouse Positioning",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Your keyboard and mouse should be at a height where your elbows are at 90-110 degrees and your wrists are in a neutral (not bent) position. Reaching forward or up for your keyboard causes shoulder and wrist strain that compounds over months.",
+    "quick_fix": "Pull keyboard to the edge of desk (or use a keyboard tray). Keep mouse directly beside the keyboard -- not far to the side. Consider a split ergonomic keyboard if typing heavily.",
+    "signs_of_problem": ["Wrist pain or tingling", "Shoulder shrugging while typing", "Reaching forward for keyboard", "Mouse arm pain"],
+    "source": "RSI prevention guidelines for workstation setup"
+  },
+  {
+    "id": "pt_004",
+    "title": "The 90-90-90 Sitting Rule",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "When seated, aim for three 90-degree angles: (1) elbows at 90 degrees when typing, (2) hips at 90 degrees (thighs parallel to floor), (3) knees at 90 degrees (feet flat). This distributes your weight evenly and keeps the spine in a neutral position.",
+    "quick_fix": "Adjust your chair height first, then desk height if possible. Your body should naturally fall into these angles with a supportive chair.",
+    "signs_of_problem": ["Any joint feeling strained", "Fidgeting constantly", "Pain that starts after 30 minutes of sitting", "Feeling like you can't find a comfortable position"],
+    "source": "Physical therapy sitting posture guidelines"
+  },
+  {
+    "id": "pt_005",
+    "title": "Lumbar Support",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Your lower back has a natural inward curve (lordosis). Without support, gravity pulls you into a slouch that flattens this curve and loads the lumbar discs unevenly. Lumbar support maintains this natural curve and reduces disc pressure by up to 40%.",
+    "quick_fix": "If your chair lacks lumbar support, roll up a towel or small pillow and place it in the curve of your lower back. Adjust it so your back naturally maintains its curve without effort.",
+    "signs_of_problem": ["Lower back ache that worsens through the day", "Slouching within minutes of sitting down", "Feeling relief when you stand", "Disc-related pain"],
+    "source": "Spinal biomechanics research"
+  },
+  {
+    "id": "pt_006",
+    "title": "Screen Distance",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Your monitor should be approximately one arm's length away (50-70 cm or 20-28 inches). Too close increases eye strain and the tendency to lean forward. Too far forces you to squint and lean forward to read, straining both eyes and neck.",
+    "quick_fix": "Sit back in your chair, extend your arm -- your fingertips should just touch the screen. Increase font size rather than moving the screen closer if text is hard to read.",
+    "signs_of_problem": ["Squinting at screen", "Leaning forward to read", "Eye fatigue after short periods", "Needing to zoom in frequently"],
+    "source": "Visual ergonomics standards"
+  },
+  {
+    "id": "pt_007",
+    "title": "Neutral Wrist Position While Typing",
+    "category": "typing_posture",
+    "applies_to": "hand_position",
+    "description": "Your wrists should be in a neutral position while typing -- not bent up, down, or to the side. Bending the wrist compresses the carpal tunnel and stresses the tendons. Floating your wrists above the keyboard (not resting on a wrist rest while typing) is ideal.",
+    "quick_fix": "Lower your keyboard or raise your chair so forearms slope slightly downward. Use a wrist rest only for resting between typing, not while actively typing. Tilt keyboard feet down (negative tilt) if possible.",
+    "signs_of_problem": ["Wrist pain or tingling", "Numbness in fingers", "Having to shake out your hands", "Visible wrist bending while typing"],
+    "source": "Carpal tunnel prevention guidelines"
+  },
+  {
+    "id": "pt_008",
+    "title": "Head Stacking (Ear Over Shoulder)",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "Your ear should be directly above your shoulder when viewed from the side. For every inch your head moves forward from this position, it effectively adds 10 pounds of load to your neck muscles. Most desk workers carry their head 2-3 inches forward.",
+    "quick_fix": "Imagine a string pulling the crown of your head toward the ceiling. Do a chin tuck: gently pull your chin straight back (making a double chin) to stack your head over your spine.",
+    "signs_of_problem": ["Neck pain and fatigue", "Visible forward head posture in photos", "Headaches at the base of skull", "Jaw tension"],
+    "source": "Biomechanical analysis of forward head posture"
+  },
+  {
+    "id": "pt_009",
+    "title": "Shoulder Relaxation Check",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "Stress and poor desk setup cause the shoulders to creep upward toward the ears throughout the day. This chronic tension in the upper trapezius is the #1 source of neck and shoulder pain in office workers. Shoulders should be relaxed and down, not hunched.",
+    "quick_fix": "Set a timer every 30-60 minutes. When it goes off, notice your shoulders, then inhale, shrug them up to your ears, and exhale while dropping them completely. Repeat 3 times.",
+    "signs_of_problem": ["Shoulders touching earlobes", "Sore upper traps by end of day", "Tension headaches", "Inability to relax shoulders even when trying"],
+    "source": "Workplace stress and musculoskeletal disorder research"
+  },
+  {
+    "id": "pt_010",
+    "title": "Dual Monitor Alignment",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "If you use two monitors, position them based on usage. If you use both equally, center the seam between them in front of you. If one is primary, center it directly in front and angle the secondary to one side. Avoid twisting your neck to see a misaligned secondary screen.",
+    "quick_fix": "If one monitor is primary (used 70%+ of the time), place it directly in front of you. Angle the secondary monitor at 15-30 degrees. Both should be the same height.",
+    "signs_of_problem": ["Neck pain on one side only", "Twisting torso to see secondary screen", "Asymmetric shoulder tension", "Preferring to turn your chair instead of your head"],
+    "source": "Multi-monitor ergonomic setup guidelines"
+  },
+  {
+    "id": "pt_011",
+    "title": "Laptop Ergonomics",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Laptops are ergonomic nightmares because the screen and keyboard are attached. To look at the screen at eye level, your arms must reach up; to type comfortably, you must look down. The only solution is to decouple them with an external keyboard/mouse or external monitor.",
+    "quick_fix": "For sessions over 30 minutes: use an external keyboard and mouse, and elevate the laptop on a stand or stack of books so the screen is at eye level. In a pinch, at least tilt the screen to reduce neck flexion.",
+    "signs_of_problem": ["Neck pain from looking down", "Wrist strain from laptop keyboard angle", "Hunching over laptop", "Eye strain from laptop screen distance"],
+    "source": "Laptop ergonomic research and guidelines"
+  },
+  {
+    "id": "pt_012",
+    "title": "Sit-Stand Desk Usage",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Standing desks are not about standing all day -- they are about alternating between sitting and standing. The ideal ratio is about 20-30 minutes standing for every 60 minutes sitting. Standing all day creates its own problems (varicose veins, foot pain, lower back fatigue).",
+    "quick_fix": "If you have a sit-stand desk, start with 15-minute standing intervals and gradually increase. Keep a timer. Stand during phone calls or video meetings. Place a small stool or box to rest one foot on while standing.",
+    "signs_of_problem": ["Standing all day and getting foot/back pain", "Never using the standing feature", "No transition routine", "Standing with locked knees"],
+    "source": "Sit-stand desk research and workplace health studies"
+  },
+  {
+    "id": "pt_013",
+    "title": "Phone Usage Posture",
+    "category": "sitting_posture",
+    "applies_to": "phone_use",
+    "description": "Looking down at your phone flexes your neck forward, adding up to 60 pounds of effective load on your cervical spine. This 'text neck' is epidemic among office workers who check their phones during breaks, essentially replacing one bad posture with another.",
+    "quick_fix": "Hold your phone at eye level or close to it. Prop your elbow on your desk. Use voice dictation instead of typing long messages. For extended phone use, lie down with the phone above your face.",
+    "signs_of_problem": ["Neck pain after phone use", "Catching yourself hunching over phone", "Sore thumbs from texting", "Headache after scrolling sessions"],
+    "source": "Surgical Technology International study on smartphone posture"
+  },
+  {
+    "id": "pt_014",
+    "title": "Mouse Grip and Arm Position",
+    "category": "typing_posture",
+    "applies_to": "hand_position",
+    "description": "Many workers grip their mouse too tightly and position it too far from the keyboard, forcing the arm to extend and the shoulder to internally rotate. The mouse should be immediately beside the keyboard, and the grip should be relaxed with the entire hand resting on the mouse.",
+    "quick_fix": "Move your mouse directly beside your keyboard (consider a compact keyboard without a numpad). Use your whole arm to move the mouse, not just the wrist. Relax your grip -- you should be able to lift your fingers off the buttons easily.",
+    "signs_of_problem": ["White knuckles while mousing", "Shoulder pain on mouse side only", "Wrist deviation while using mouse", "Forearm tension from mouse use"],
+    "source": "Computer input device ergonomics research"
+  },
+  {
+    "id": "pt_015",
+    "title": "Breathing Posture Connection",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "Slouching compresses the diaphragm and reduces lung capacity by up to 30%. This means slouched workers are chronically under-oxygenated, leading to fatigue, poor concentration, and increased anxiety. Good sitting posture is literally a breathing exercise.",
+    "quick_fix": "Sit with your chest open and shoulders back. Place one hand on your chest and one on your belly. If only your chest moves when you breathe, you're likely slouching. Adjust until your belly expands naturally with each breath.",
+    "signs_of_problem": ["Shallow chest-only breathing", "Yawning frequently at desk", "Fatigue despite adequate sleep", "Difficulty taking a deep breath while seated"],
+    "source": "Respiratory physiology and posture research"
+  },
+  {
+    "id": "pt_016",
+    "title": "Meeting Posture for Long Sessions",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "Long meetings often cause people to adopt their worst posture -- slouching back, crossing legs, propping head on hand. After 90 minutes, even people with good posture habits tend to collapse. Plan ahead for posture during long meeting blocks.",
+    "quick_fix": "Change your sitting position every 15-20 minutes. Alternate between: sitting upright, sitting at the edge of your chair, and standing (if appropriate). Keep both feet on the floor. If the meeting is virtual, stand for part of it with camera off.",
+    "signs_of_problem": ["Ending meetings with back pain", "Catching yourself in extreme slouch during calls", "Post-meeting headaches", "Stiffness after long meeting blocks"],
+    "source": "Occupational health recommendations for meeting-intensive roles"
+  },
+  {
+    "id": "pt_017",
+    "title": "Backpack and Bag Carrying",
+    "category": "sitting_posture",
+    "applies_to": "commute",
+    "description": "How you carry your bag to and from work affects your desk posture. A heavy single-shoulder bag creates asymmetric loading that your muscles 'remember' when sitting. This contributes to one-sided tension patterns that desk work then amplifies.",
+    "quick_fix": "Use a backpack with both straps. If using a shoulder bag, alternate sides daily. Keep bag weight under 10% of your body weight. Clean out unnecessary items weekly.",
+    "signs_of_problem": ["One shoulder higher than the other", "Pain on one side only", "Visible uneven shoulders in mirror", "Compensatory leaning while sitting"],
+    "source": "Biomechanical effects of bag carrying on spinal alignment"
+  },
+  {
+    "id": "pt_018",
+    "title": "Monitor Brightness and Contrast",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Screen brightness should match your environment -- too bright in a dim room or too dim in a bright room forces your eyes to constantly adapt, accelerating fatigue. The contrast between your screen and surroundings should be minimal.",
+    "quick_fix": "Hold a white piece of paper next to your screen. If the screen looks like a light source, it's too bright. If the paper looks brighter, the screen is too dim. Enable auto-brightness or adjust manually throughout the day. Use night mode after sunset.",
+    "signs_of_problem": ["Eyes feeling strained within first hour", "Squinting at screen", "Screen looking like a flashlight in dim room", "Headaches focused around eyes"],
+    "source": "Display screen equipment regulations and visual comfort research"
+  },
+  {
+    "id": "pt_019",
+    "title": "Micro-Break Habit (30-30 Rule)",
+    "category": "sitting_posture",
+    "applies_to": "work_habits",
+    "description": "Every 30 minutes, take 30 seconds to change position, stretch, or simply stand. This 30-30 rule prevents tissue creep -- the gradual deformation of muscles, ligaments, and discs that occurs when held in one position. It is easier to prevent stiffness than to fix it.",
+    "quick_fix": "Set a recurring 30-minute timer on your phone or computer. When it goes off, simply stand up, roll your shoulders, and sit back down. Even this minimal movement resets the tissue creep clock.",
+    "signs_of_problem": ["Stiffness when you finally stand up", "Needing to 'unfold' after sitting", "Pain-free while sitting but sore when moving", "Morning stiffness that improves with movement"],
+    "source": "Tissue creep and viscoelastic behavior research in spinal biomechanics"
+  },
+  {
+    "id": "pt_020",
+    "title": "Cross-Legged Sitting Risks",
+    "category": "sitting_posture",
+    "applies_to": "sitting_position",
+    "description": "Crossing your legs while sitting tilts the pelvis, rotates the spine, and compresses the peroneal nerve. While occasionally crossing legs is fine, habitually doing so creates chronic asymmetries. Many people cross the same leg every time, worsening the imbalance.",
+    "quick_fix": "Keep both feet flat on the floor as your default position. If you must cross, alternate which leg is on top. Better alternative: cross at the ankles instead of the knees -- this has less pelvic impact.",
+    "signs_of_problem": ["Hip pain on one side", "Always crossing the same leg", "Lower back pain worse on one side", "Tingling in lower leg after crossing"],
+    "source": "Biomechanical effects of cross-legged sitting"
+  },
+  {
+    "id": "pt_021",
+    "title": "Desk Lighting Setup",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Poor lighting causes eye strain, headaches, and unconscious posture changes (leaning forward to see better). Your desk should have ambient overhead lighting plus a task light. Avoid having a bright window directly behind or in front of your monitor.",
+    "quick_fix": "Place your monitor perpendicular to windows (not facing or back-to). Add a desk lamp for document reading. Reduce glare with a matte screen protector if needed. Window blinds can control variable daylight.",
+    "signs_of_problem": ["Glare or reflections on screen", "Leaning forward to read", "Squinting", "Different light levels between screen and surroundings"],
+    "source": "Lighting ergonomics guidelines (IESNA standards)"
+  },
+  {
+    "id": "pt_022",
+    "title": "Standing Desk Anti-Fatigue Mat",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Standing on a hard floor causes foot, knee, and lower back pain within 30 minutes. An anti-fatigue mat provides cushioning and encourages subtle weight shifting that keeps leg muscles active and blood circulating.",
+    "quick_fix": "Use an anti-fatigue mat (even a yoga mat folded in half works). Wear supportive shoes, not flat dress shoes or barefoot. Shift your weight from foot to foot periodically. Rest one foot on a small step or box.",
+    "signs_of_problem": ["Foot pain when standing at desk", "Locking knees while standing", "Lower back pain from standing", "Avoiding standing desk due to discomfort"],
+    "source": "Standing workstation ergonomic guidelines"
+  },
+  {
+    "id": "pt_023",
+    "title": "Armrest Height Adjustment",
+    "category": "ergonomics",
+    "applies_to": "desk_setup",
+    "description": "Armrests should support your forearms at a height where your shoulders can relax. Too high forces shoulders up (trapezius strain). Too low provides no support, causing you to lean to one side. Many workers never adjust their armrests from the factory setting.",
+    "quick_fix": "Adjust armrests so your shoulders are relaxed (not shrugging) and your forearms are supported at desk height. If armrests prevent you from getting close to your desk, remove them or lower them below desk level.",
+    "signs_of_problem": ["Shoulders hiking up to reach armrests", "Leaning to one side", "Armrests bumping desk edge", "Not using armrests at all"],
+    "source": "Chair ergonomics and adjustment guidelines"
+  },
+  {
+    "id": "pt_024",
+    "title": "Temperature and Posture Link",
+    "category": "ergonomics",
+    "applies_to": "environment",
+    "description": "Cold office environments cause people to tense muscles, hunch shoulders, and curl into protective postures. Chronically cold muscles are also more prone to strain. The ideal temperature for office work is 20-22C (68-72F). Many Asian offices are aggressively air-conditioned.",
+    "quick_fix": "Keep a light jacket or shawl at your desk. Warm your hands before typing (cold hands reduce dexterity). If you sit near AC vents, request a vent deflector. A small desk heater for your hands can help.",
+    "signs_of_problem": ["Hunching to stay warm", "Tense shoulders in cold office", "Stiff muscles upon arriving at overcooled office", "Visibly curling inward"],
+    "source": "Thermal comfort and workplace health research"
+  },
+  {
+    "id": "pt_025",
+    "title": "End-of-Day Posture Reset Routine",
+    "category": "sitting_posture",
+    "applies_to": "work_habits",
+    "description": "After 8-12 hours of desk work, your body has accumulated significant postural strain. A brief end-of-day routine reverses the most common desk posture patterns and prevents chronic issues from developing. Think of it as 'closing the loop' on your work day.",
+    "quick_fix": "Before leaving your desk: (1) Stand and do a chest opener stretch for 20 sec, (2) Do 10 chin tucks, (3) Do a standing forward fold for 20 sec, (4) Do 5 shoulder circles each direction. This 2-minute routine counteracts a full day of desk posture.",
+    "signs_of_problem": ["Stiffness persisting into evening", "Needing a long time to 'unwind' physically after work", "Posture-related pain disrupting sleep", "Weekend recovery from weekday sitting"],
+    "source": "End-of-day decompression protocols from occupational therapy"
+  }
+]

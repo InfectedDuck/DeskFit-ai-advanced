@@ -1,0 +1,252 @@
+[
+  {
+    "id": "wa_001",
+    "title": "The 20-20-20 Eye Rule",
+    "category": "eye_care",
+    "context": "screen_fatigue",
+    "description": "Every 20 minutes of screen time, look at something 20 feet (6 meters) away for 20 seconds. This simple rule prevents accommodative spasm -- the condition where your eye muscles lock into near-focus mode after prolonged screen use, causing blurry distance vision and headaches.",
+    "why_it_works": "Your ciliary muscles (which focus the lens) are contracted continuously during near-screen work. The 20-20-20 rule forces them to relax periodically, preventing fatigue and spasm.",
+    "when_to_use": ["During long coding sessions", "After 2+ hours of screen time", "When eyes feel tired", "During any screen-intensive work"],
+    "source": "American Academy of Ophthalmology"
+  },
+  {
+    "id": "wa_002",
+    "title": "Hydration for Desk Workers",
+    "category": "nutrition",
+    "context": "daily_habits",
+    "description": "Air-conditioned offices and screen focus cause desk workers to forget to drink water. Mild dehydration (just 1-2% body weight) impairs cognitive function, increases fatigue, and worsens headaches. Keep a water bottle visible at your desk and aim for 2-3 liters per day.",
+    "why_it_works": "The brain is 75% water. Even mild dehydration reduces cognitive performance by 15-20%. The dry air in AC offices increases water loss through respiration without you noticing.",
+    "when_to_use": ["Throughout the workday", "When feeling fatigued", "When getting headaches", "During afternoon slumps"],
+    "source": "European Journal of Nutrition hydration and cognitive performance study"
+  },
+  {
+    "id": "wa_003",
+    "title": "Power Nap Protocol (10-20 Minutes)",
+    "category": "recovery",
+    "context": "fatigue_management",
+    "description": "A 10-20 minute nap between 1:00-3:00 PM boosts alertness, cognitive performance, and mood more effectively than caffeine. Longer naps cause sleep inertia (grogginess). In Asian work culture, a short post-lunch nap is more accepted and can be a powerful tool.",
+    "why_it_works": "Brief naps keep you in Stage 1-2 light sleep, which restores alertness without entering deep sleep. The post-lunch circadian dip makes this the natural optimal window.",
+    "when_to_use": ["After lunch", "During afternoon energy crash", "Before an important late-day meeting", "When caffeine is not helping"],
+    "source": "NASA napping study and sleep science research"
+  },
+  {
+    "id": "wa_004",
+    "title": "Caffeine Timing Strategy",
+    "category": "nutrition",
+    "context": "daily_habits",
+    "description": "Avoid caffeine in the first 90 minutes after waking (cortisol is already naturally peaking) and after 2:00 PM (half-life of 5-6 hours means it will still be active at bedtime). The optimal window is typically 9:30 AM - 1:30 PM for a standard work schedule.",
+    "why_it_works": "Consuming caffeine when cortisol is high leads to tolerance. Consuming it too late disrupts sleep architecture even if you fall asleep normally, reducing deep sleep by up to 20%.",
+    "when_to_use": ["When planning daily coffee intake", "When sleep quality is declining", "When caffeine seems to have stopped working", "When optimizing daily energy"],
+    "source": "Chronopharmacology of caffeine research"
+  },
+  {
+    "id": "wa_005",
+    "title": "Screen Time Before Bed",
+    "category": "sleep",
+    "context": "sleep_quality",
+    "description": "Blue light from screens suppresses melatonin production and shifts your circadian clock later. For workers already pulling long hours, this creates a double hit: less time for sleep AND worse sleep quality. Implement a digital sunset 60-90 minutes before bed.",
+    "why_it_works": "Blue light (460-490nm) activates melanopsin receptors in the retina, signaling 'daytime' to the suprachiasmatic nucleus (your master clock). Even 30 minutes of screen exposure can delay melatonin onset by 90 minutes.",
+    "when_to_use": ["1-2 hours before intended sleep time", "When having trouble falling asleep", "When sleep quality is poor despite adequate hours", "During work-from-home late sessions"],
+    "source": "Harvard Medical School sleep research"
+  },
+  {
+    "id": "wa_006",
+    "title": "Desk Snacking Strategy",
+    "category": "nutrition",
+    "context": "daily_habits",
+    "description": "Blood sugar spikes and crashes from processed snacks cause the mid-afternoon energy crash that plagues office workers. Choose snacks that combine protein, healthy fat, and fiber for sustained energy. Avoid the office candy bowl and vending machine.",
+    "why_it_works": "Protein and fat slow glucose absorption, preventing the insulin spike that causes the crash. Fiber adds satiety. This maintains steady blood glucose for consistent cognitive performance.",
+    "when_to_use": ["When planning snacks for the office", "During afternoon energy slumps", "When craving sugar at work", "For sustained focus during long tasks"],
+    "source": "Glycemic index research and workplace nutrition studies"
+  },
+  {
+    "id": "wa_007",
+    "title": "The Pomodoro Technique for Body Breaks",
+    "category": "productivity",
+    "context": "work_habits",
+    "description": "Work in 25-minute focused intervals (Pomodoros) followed by 5-minute breaks. Every 4 Pomodoros, take a 15-30 minute break. Use the 5-minute breaks for physical micro-exercises instead of checking social media. This creates a built-in structure for movement.",
+    "why_it_works": "The Pomodoro technique aligns with the brain's ultradian rhythms (natural focus cycles of 25-90 minutes). Adding physical movement to breaks compounds the cognitive benefit with the physical recovery.",
+    "when_to_use": ["During deep work sessions", "When you forget to take breaks", "When structuring your work day", "When integrating desk exercises into routine"],
+    "source": "Francesco Cirillo's Pomodoro Technique combined with movement science"
+  },
+  {
+    "id": "wa_008",
+    "title": "Stress Jaw Release",
+    "category": "stress_management",
+    "context": "stress_relief",
+    "description": "Stress causes unconscious jaw clenching (bruxism) that creates tension headaches, jaw pain, and tooth damage. Many desk workers clench without realizing it, especially during focused or frustrating work. The tongue should rest gently on the roof of the mouth with teeth slightly apart.",
+    "why_it_works": "The jaw muscles (masseter) are some of the strongest in the body. Chronic clenching transmits tension to the temporal muscles, causing headaches, and to the cervical spine, causing neck pain.",
+    "when_to_use": ["When noticing jaw tension", "During stressful tasks", "When getting tension headaches", "During focused deep work"],
+    "source": "TMJ disorder prevention and stress management research"
+  },
+  {
+    "id": "wa_009",
+    "title": "Morning Sunlight Exposure",
+    "category": "sleep",
+    "context": "circadian_rhythm",
+    "description": "Getting 10-15 minutes of natural sunlight within 30 minutes of waking sets your circadian clock for the day. This is especially critical for office workers who commute before sunrise and sit in windowless offices, never getting adequate light signals.",
+    "why_it_works": "Morning sunlight triggers a cortisol pulse and sets the 'timer' for melatonin release 14-16 hours later. Without this signal, your clock drifts, making it harder to fall asleep at night.",
+    "when_to_use": ["Every morning upon waking", "When jet-lagged", "When having trouble falling asleep at night", "When working night shifts transitioning back to day"],
+    "source": "Dr. Andrew Huberman's circadian biology research at Stanford"
+  },
+  {
+    "id": "wa_010",
+    "title": "Micro-Meditation (2-Minute Reset)",
+    "category": "stress_management",
+    "context": "stress_relief",
+    "description": "A 2-minute eyes-closed meditation between tasks or meetings clears working memory and reduces cortisol. You do not need a meditation app or 20 minutes -- research shows even 2 minutes of focused attention on breathing creates measurable stress reduction.",
+    "why_it_works": "Closing your eyes reduces sensory input by 80%. Focused breathing activates the vagus nerve, shifting from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest) nervous system dominance.",
+    "when_to_use": ["Between meetings", "After a stressful interaction", "When feeling overwhelmed", "Before making important decisions"],
+    "source": "Mindfulness-based stress reduction (MBSR) research"
+  },
+  {
+    "id": "wa_011",
+    "title": "Social Connection Breaks",
+    "category": "mental_health",
+    "context": "workplace_wellness",
+    "description": "Isolation at a desk all day increases cortisol and reduces oxytocin. Taking a 5-minute break to have a genuine (non-work) conversation with a colleague reduces stress more effectively than solo breaks. In Asian work cultures where long hours are expected, intentional social connection is even more critical.",
+    "why_it_works": "Positive social interaction triggers oxytocin release, which directly counteracts cortisol. Face-to-face interaction is more effective than digital communication for this effect.",
+    "when_to_use": ["During lunch break", "Coffee breaks", "When feeling isolated or burnt out", "As alternative to scrolling phone during break"],
+    "source": "Social neuroscience and workplace well-being research"
+  },
+  {
+    "id": "wa_012",
+    "title": "Sleep Debt Recovery Strategy",
+    "category": "sleep",
+    "context": "sleep_quality",
+    "description": "Workaholics accumulate sleep debt during the week and try to repay it on weekends. This 'social jet lag' disrupts your circadian rhythm further. A better strategy: go to bed 30-60 minutes earlier on weeknights rather than sleeping 4 extra hours on Saturday.",
+    "why_it_works": "Consistent sleep timing keeps your circadian clock calibrated. Large weekend sleep-ins shift your clock, making Monday morning feel like jet lag. Gradual recovery preserves rhythm consistency.",
+    "when_to_use": ["When planning weekly sleep schedule", "After a period of sleep deprivation", "When Monday mornings feel especially brutal", "When weekend sleep-ins aren't fixing tiredness"],
+    "source": "Sleep debt and circadian rhythm research"
+  },
+  {
+    "id": "wa_013",
+    "title": "Walking Meeting Productivity Boost",
+    "category": "productivity",
+    "context": "work_habits",
+    "description": "Replace one-on-one sit-down meetings with walking meetings. Stanford research shows walking increases creative output by 60% compared to sitting. The movement also reduces the power dynamics of a conference room, making conversations more open.",
+    "why_it_works": "Walking increases blood flow to the brain by 15-20%, enhancing cognitive function. The rhythmic motion activates bilateral brain stimulation, enhancing creative and divergent thinking.",
+    "when_to_use": ["For one-on-one meetings", "Brainstorming sessions", "Casual catch-ups", "When you've been sitting for 3+ hours"],
+    "source": "Stanford University study on walking and creativity, 2014"
+  },
+  {
+    "id": "wa_014",
+    "title": "Optimal Desk Meal Timing",
+    "category": "nutrition",
+    "context": "daily_habits",
+    "description": "Many workaholics skip meals or eat at irregular times. Eating within a consistent 10-12 hour window (e.g., 8 AM to 7 PM) and having lunch at the same time daily improves metabolic health, energy levels, and cognitive function. Your gut has its own circadian clock.",
+    "why_it_works": "Peripheral clocks in the liver, gut, and pancreas synchronize to meal timing. Irregular eating disrupts these clocks, impairing digestion and glucose regulation, which manifests as energy crashes.",
+    "when_to_use": ["When planning daily meal schedule", "When experiencing energy crashes", "When eating at random times due to work", "When digestive issues arise from irregular meals"],
+    "source": "Chrononutrition and time-restricted eating research"
+  },
+  {
+    "id": "wa_015",
+    "title": "Progressive Muscle Relaxation (Quick Version)",
+    "category": "stress_management",
+    "context": "stress_relief",
+    "description": "Tense and release each muscle group systematically to identify and release unconscious tension. A quick desk-friendly version focuses on the most common tension areas: jaw, shoulders, hands, and feet. Can be done in 2-3 minutes.",
+    "why_it_works": "Deliberately tensing muscles and then releasing them activates the Golgi tendon organ, which inhibits muscle contraction. This neurological mechanism forces relaxation more effectively than simply trying to relax.",
+    "when_to_use": ["When feeling tense but not sure where", "End of stressful work block", "Before sleep", "When anxiety manifests physically"],
+    "source": "Edmund Jacobson's progressive muscle relaxation technique"
+  },
+  {
+    "id": "wa_016",
+    "title": "Blue Light Management",
+    "category": "eye_care",
+    "context": "screen_fatigue",
+    "description": "Beyond the 20-20-20 rule, manage blue light exposure throughout the day. Use your OS night mode starting 2 hours before bed. During the day, blue light is actually beneficial for alertness -- so don't use blue-blocking glasses until evening.",
+    "why_it_works": "Blue light during the day boosts alertness and mood (it's why offices have bright fluorescent lights). The problem is only at night when it suppresses melatonin. Context-appropriate blue light management optimizes both alertness and sleep.",
+    "when_to_use": ["Setting up daily screen habits", "When sleep is being affected by screen use", "When choosing blue-blocking glasses timing", "When adjusting monitor settings"],
+    "source": "Chronobiology and blue light research"
+  },
+  {
+    "id": "wa_017",
+    "title": "Commute Recovery Strategies",
+    "category": "recovery",
+    "context": "commute_wellness",
+    "description": "Long commutes (common in Asian megacities: Hong Kong, Tokyo, Singapore) add 1-3 hours of sitting in cramped positions. Use commute time strategically: standing on trains when possible, doing seated exercises, or using the walk from the station as an active movement session.",
+    "why_it_works": "The commute is an often-overlooked period of physical stress. By making it active, you break up the total sitting time and arrive at work/home with less accumulated stiffness.",
+    "when_to_use": ["During daily commute", "When commute exceeds 30 minutes", "When arriving at work already stiff", "When commute is adding to physical strain"],
+    "source": "Commuter health and active transport research"
+  },
+  {
+    "id": "wa_018",
+    "title": "Workplace Plant Benefits",
+    "category": "mental_health",
+    "context": "workspace_environment",
+    "description": "Having plants in your workspace reduces stress by 37%, reduces fatigue by 38%, and reduces headaches by 45% according to research. Plants also improve air quality and provide a natural focus point for eye breaks (replacing the 20-foot-away object in the 20-20-20 rule).",
+    "why_it_works": "Biophilia -- humans have an innate connection to living things. Green color has calming psychological effects. Plants also slightly increase humidity and filter VOCs from office air.",
+    "when_to_use": ["When setting up workspace", "When workspace feels sterile", "As eye-rest focal point", "When air quality in office is poor"],
+    "source": "University of Exeter workplace productivity and plants study"
+  },
+  {
+    "id": "wa_019",
+    "title": "Cold Water Alertness Hack",
+    "category": "recovery",
+    "context": "fatigue_management",
+    "description": "Splashing cold water on your face or running cold water over your wrists activates the dive reflex and triggers norepinephrine release, providing an instant alertness boost without caffeine. This is particularly useful for the 2-4 PM slump.",
+    "why_it_works": "Cold water triggers the mammalian dive reflex: heart rate slows, blood pressure adjusts, and norepinephrine surges. The norepinephrine provides alertness that lasts 30-60 minutes.",
+    "when_to_use": ["During afternoon energy crash", "When caffeine limit reached", "Before important meetings", "When feeling drowsy at desk"],
+    "source": "Mammalian dive reflex and cold exposure research"
+  },
+  {
+    "id": "wa_020",
+    "title": "Gratitude Journaling for Workaholics",
+    "category": "mental_health",
+    "context": "workplace_wellness",
+    "description": "Workaholics focus disproportionately on what's NOT done, creating chronic dissatisfaction despite high output. Spending 2 minutes writing 3 things you're grateful for shifts neural patterns from threat-focus to reward-focus. Do it at the end of each workday.",
+    "why_it_works": "Gratitude practice activates the medial prefrontal cortex and increases serotonin and dopamine. Over 8 weeks, it physically rewires neural pathways, reducing the default negativity bias.",
+    "when_to_use": ["End of each workday", "When feeling burnt out", "When accomplishments feel insufficient", "When work-life balance feels off"],
+    "source": "Positive psychology and neuroplasticity research"
+  },
+  {
+    "id": "wa_021",
+    "title": "Protein-First Lunch Strategy",
+    "category": "nutrition",
+    "context": "daily_habits",
+    "description": "Eat your protein portion first at lunch, then vegetables, then carbohydrates last. This simple eating order reduces the glucose spike by up to 40% compared to eating carbs first, preventing the post-lunch crash that kills afternoon productivity.",
+    "why_it_works": "Eating protein and fiber first slows gastric emptying and blunts the insulin response to carbohydrates eaten afterward. The same meal, same portions -- just different order -- produces significantly different glucose curves.",
+    "when_to_use": ["Every lunch meal", "When post-lunch crash is severe", "When afternoon productivity drops", "When managing energy throughout the day"],
+    "source": "Cornell University food sequencing study, published in Diabetes Care"
+  },
+  {
+    "id": "wa_022",
+    "title": "Nature Exposure During Work Day",
+    "category": "mental_health",
+    "context": "workspace_environment",
+    "description": "Even 5 minutes of looking at nature (a park view, a tree, or nature images if no window) reduces cortisol and restores attention. This is why tech companies invest in green spaces. If you don't have a window, a nature screensaver during breaks provides partial benefit.",
+    "why_it_works": "Attention Restoration Theory: natural environments engage 'involuntary attention' (soft fascination), allowing the directed attention system used in work to recover. This is why a nature break feels restorative even if you're still looking at something.",
+    "when_to_use": ["During breaks from focused work", "When feeling mentally drained", "As an alternative to social media during breaks", "When stepping outside is not possible"],
+    "source": "Attention Restoration Theory (Kaplan) and nature exposure research"
+  },
+  {
+    "id": "wa_023",
+    "title": "Optimal Workspace Temperature",
+    "category": "productivity",
+    "context": "workspace_environment",
+    "description": "Cognitive performance peaks at 22C (72F) and drops significantly above 25C or below 20C. In many Asian offices, AC is set very cold (18-20C), which increases muscle tension and error rates. If you cannot control office temperature, adapt with layers and warm drinks.",
+    "why_it_works": "Cold diverts blood flow from extremities (reducing hand dexterity and typing accuracy) and triggers muscle tensing. Too warm makes you drowsy. 22C is the thermoneutral zone where the body spends minimal energy on temperature regulation.",
+    "when_to_use": ["When setting up workspace", "When productivity seems affected by temperature", "When choosing what to wear to office", "When requesting facilities adjustments"],
+    "source": "Helsinki University of Technology temperature and productivity study"
+  },
+  {
+    "id": "wa_024",
+    "title": "Digital Detox Micro-Breaks",
+    "category": "mental_health",
+    "context": "digital_wellness",
+    "description": "During breaks, avoid switching from work screens to personal screens (phone scrolling). This provides no cognitive rest because the visual and attention systems stay engaged. True rest means looking away from all screens: close eyes, look at physical objects, have a conversation, or look out a window.",
+    "why_it_works": "Screen switching floods the brain with novel stimuli and dopamine hits, consuming the same attentional resources you need to recover. A true screen-free break allows the prefrontal cortex to enter default mode network activity, which is when creative insights and memory consolidation occur.",
+    "when_to_use": ["During every break from work", "When breaks don't feel restorative", "When returning from break feeling more tired", "When phone addiction is affecting work"],
+    "source": "Digital wellness and attention restoration research"
+  },
+  {
+    "id": "wa_025",
+    "title": "Weekend Recovery Protocol",
+    "category": "recovery",
+    "context": "work_life_balance",
+    "description": "Workaholics often fail to recover on weekends because they either work through them or crash with complete inactivity. Optimal recovery includes: one session of moderate exercise, one social activity, one outdoor activity, and consistent sleep timing. Structure your recovery like you structure your work.",
+    "why_it_works": "Physical activity increases BDNF (brain-derived neurotrophic factor), social connection reduces cortisol, outdoor time resets circadian rhythm, and consistent sleep prevents 'social jet lag'. Together, these four pillars provide complete recovery.",
+    "when_to_use": ["When planning weekends", "When weekends don't feel restorative", "When Monday mornings are dreaded", "When burnout is building"],
+    "source": "Recovery science and occupational health psychology"
+  }
+]
