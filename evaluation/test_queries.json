@@ -1,0 +1,182 @@
+[
+  {
+    "id": "tq_001",
+    "query": "My neck is stiff from looking at my monitor all day",
+    "expected_ids": ["ex_002", "ex_011", "ex_023", "ex_031", "pt_008"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_002",
+    "query": "My wrists hurt from typing too much",
+    "expected_ids": ["ex_003", "ex_025", "ex_035", "ex_045", "pt_007"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_003",
+    "query": "Quick stretch I can do between meetings",
+    "expected_ids": ["ex_004", "ex_050", "ex_031", "pt_019"],
+    "category": "scenario"
+  },
+  {
+    "id": "tq_004",
+    "query": "Breathing exercise for stress before a presentation",
+    "expected_ids": ["ex_006", "ex_012", "ex_037", "ex_018"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_005",
+    "query": "How should I set up my desk and monitor?",
+    "expected_ids": ["pt_001", "pt_002", "pt_003", "pt_006", "pt_011"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_006",
+    "query": "I feel sleepy every afternoon at work",
+    "expected_ids": ["wa_003", "wa_004", "wa_006", "wa_019", "ex_007", "ex_021"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_007",
+    "query": "My eyes are tired from staring at screens",
+    "expected_ids": ["ex_008", "ex_020", "ex_049", "wa_001", "wa_016"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_008",
+    "query": "Lower back pain from sitting all day",
+    "expected_ids": ["ex_001", "ex_010", "ex_046", "pt_005", "pt_004"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_009",
+    "query": "Shoulder pain and rounded posture fix",
+    "expected_ids": ["ex_005", "ex_014", "ex_026", "ex_034", "pt_009"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_010",
+    "query": "I feel stiff after sitting for hours",
+    "expected_ids": ["ex_050", "ex_001", "ex_010", "pt_019", "pt_025"],
+    "category": "vague"
+  },
+  {
+    "id": "tq_011",
+    "query": "How to stop slouching at my desk",
+    "expected_ids": ["pt_004", "pt_005", "pt_008", "ex_023", "ex_034"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_012",
+    "query": "Exercises for better posture",
+    "expected_ids": ["ex_023", "ex_026", "ex_034", "pt_004", "pt_008"],
+    "category": "cross_category"
+  },
+  {
+    "id": "tq_013",
+    "query": "Carpal tunnel prevention for programmers",
+    "expected_ids": ["ex_045", "ex_003", "ex_015", "ex_025", "pt_007"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_014",
+    "query": "Stress and anxiety relief at work",
+    "expected_ids": ["ex_006", "ex_012", "ex_027", "wa_010", "wa_015"],
+    "category": "cross_category"
+  },
+  {
+    "id": "tq_015",
+    "query": "What snacks should I eat at my desk?",
+    "expected_ids": ["wa_006", "wa_021", "wa_014"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_016",
+    "query": "My legs feel numb from sitting too long",
+    "expected_ids": ["ex_009", "ex_024", "ex_038", "ex_013", "pt_020"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_017",
+    "query": "How to sleep better as a workaholic",
+    "expected_ids": ["wa_005", "wa_012", "wa_009", "ex_018"],
+    "category": "cross_category"
+  },
+  {
+    "id": "tq_018",
+    "query": "Hip tightness from prolonged sitting",
+    "expected_ids": ["ex_009", "ex_029", "ex_033", "pt_020"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_019",
+    "query": "2 minute break ideas at my desk",
+    "expected_ids": ["wa_010", "ex_048", "pt_019", "ex_050", "wa_007"],
+    "category": "scenario"
+  },
+  {
+    "id": "tq_020",
+    "query": "Upper back pain between shoulder blades",
+    "expected_ids": ["ex_022", "ex_043", "ex_034", "ex_005"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_021",
+    "query": "How much water should I drink at work",
+    "expected_ids": ["wa_002"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_022",
+    "query": "Tingling in my fingers when typing",
+    "expected_ids": ["ex_045", "ex_003", "ex_015", "pt_007"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_023",
+    "query": "Best position for dual monitors",
+    "expected_ids": ["pt_010", "pt_001"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_024",
+    "query": "I can't focus and my mind is foggy",
+    "expected_ids": ["ex_027", "wa_019", "wa_010", "ex_048", "wa_004"],
+    "category": "vague"
+  },
+  {
+    "id": "tq_025",
+    "query": "Standing desk tips and proper usage",
+    "expected_ids": ["pt_012", "pt_022"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_026",
+    "query": "Calming exercise before an important meeting",
+    "expected_ids": ["ex_012", "ex_006", "ex_037", "wa_010"],
+    "category": "scenario"
+  },
+  {
+    "id": "tq_027",
+    "query": "My jaw is clenched and tight from stress",
+    "expected_ids": ["wa_008", "wa_015", "ex_037"],
+    "category": "symptom_based"
+  },
+  {
+    "id": "tq_028",
+    "query": "How to take regular breaks using pomodoro",
+    "expected_ids": ["wa_007", "pt_019"],
+    "category": "direct_match"
+  },
+  {
+    "id": "tq_029",
+    "query": "Simple exercises that need no equipment at my desk",
+    "expected_ids": ["ex_001", "ex_002", "ex_004", "ex_010", "ex_050"],
+    "category": "scenario"
+  },
+  {
+    "id": "tq_030",
+    "query": "Weekend recovery after intense work week",
+    "expected_ids": ["wa_025", "wa_012", "wa_017"],
+    "category": "direct_match"
+  }
+]

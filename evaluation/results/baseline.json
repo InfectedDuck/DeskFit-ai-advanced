@@ -1,0 +1,681 @@
+{
+  "label": "baseline",
+  "timestamp": "2026-04-04T11:59:55.275654+00:00",
+  "k": 5,
+  "elapsed_seconds": 4.09,
+  "metrics": {
+    "hit_rate_at_1": 0.5667,
+    "hit_rate_at_3": 0.8333,
+    "hit_rate_at_5": 0.9,
+    "mrr": 0.7056,
+    "precision_at_5": 0.3733
+  },
+  "num_queries": 30,
+  "per_query": [
+    {
+      "query_id": "tq_001",
+      "query": "My neck is stiff from looking at my monitor all day",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 0.0,
+      "hit_rate_at_5": 0.0,
+      "mrr": 0.0,
+      "precision_at_5": 0.0,
+      "retrieved_ids": [
+        "pt_001",
+        "pt_010",
+        "pt_011",
+        "pt_013",
+        "pt_009"
+      ],
+      "expected_ids": [
+        "ex_002",
+        "ex_011",
+        "ex_023",
+        "ex_031",
+        "pt_008"
+      ]
+    },
+    {
+      "query_id": "tq_002",
+      "query": "My wrists hurt from typing too much",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.6,
+      "retrieved_ids": [
+        "pt_007",
+        "pt_003",
+        "ex_003",
+        "pt_014",
+        "ex_025"
+      ],
+      "expected_ids": [
+        "ex_003",
+        "ex_025",
+        "ex_035",
+        "ex_045",
+        "pt_007"
+      ]
+    },
+    {
+      "query_id": "tq_003",
+      "query": "Quick stretch I can do between meetings",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_016",
+        "ex_050",
+        "ex_041",
+        "ex_031",
+        "ex_046"
+      ],
+      "expected_ids": [
+        "ex_004",
+        "ex_050",
+        "ex_031",
+        "pt_019"
+      ]
+    },
+    {
+      "query_id": "tq_004",
+      "query": "Breathing exercise for stress before a presentation",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.8,
+      "retrieved_ids": [
+        "ex_006",
+        "ex_037",
+        "ex_044",
+        "ex_012",
+        "ex_018"
+      ],
+      "expected_ids": [
+        "ex_006",
+        "ex_012",
+        "ex_037",
+        "ex_018"
+      ]
+    },
+    {
+      "query_id": "tq_005",
+      "query": "How should I set up my desk and monitor?",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.3333333333333333,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_021",
+        "pt_010",
+        "pt_006",
+        "pt_001",
+        "ex_032"
+      ],
+      "expected_ids": [
+        "pt_001",
+        "pt_002",
+        "pt_003",
+        "pt_006",
+        "pt_011"
+      ]
+    },
+    {
+      "query_id": "tq_006",
+      "query": "I feel sleepy every afternoon at work",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "wa_003",
+        "wa_009",
+        "wa_002",
+        "pt_018",
+        "wa_006"
+      ],
+      "expected_ids": [
+        "wa_003",
+        "wa_004",
+        "wa_006",
+        "wa_019",
+        "ex_007",
+        "ex_021"
+      ]
+    },
+    {
+      "query_id": "tq_007",
+      "query": "My eyes are tired from staring at screens",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.8,
+      "retrieved_ids": [
+        "pt_018",
+        "wa_001",
+        "ex_020",
+        "ex_049",
+        "ex_008"
+      ],
+      "expected_ids": [
+        "ex_008",
+        "ex_020",
+        "ex_049",
+        "wa_001",
+        "wa_016"
+      ]
+    },
+    {
+      "query_id": "tq_008",
+      "query": "Lower back pain from sitting all day",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "pt_005",
+        "ex_017",
+        "pt_025",
+        "pt_009",
+        "pt_019"
+      ],
+      "expected_ids": [
+        "ex_001",
+        "ex_010",
+        "ex_046",
+        "pt_005",
+        "pt_004"
+      ]
+    },
+    {
+      "query_id": "tq_009",
+      "query": "Shoulder pain and rounded posture fix",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "pt_009",
+        "ex_004",
+        "pt_017",
+        "ex_043",
+        "ex_016"
+      ],
+      "expected_ids": [
+        "ex_005",
+        "ex_014",
+        "ex_026",
+        "ex_034",
+        "pt_009"
+      ]
+    },
+    {
+      "query_id": "tq_010",
+      "query": "I feel stiff after sitting for hours",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_019",
+        "pt_025",
+        "pt_009",
+        "pt_015",
+        "pt_004"
+      ],
+      "expected_ids": [
+        "ex_050",
+        "ex_001",
+        "ex_010",
+        "pt_019",
+        "pt_025"
+      ]
+    },
+    {
+      "query_id": "tq_011",
+      "query": "How to stop slouching at my desk",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.3333333333333333,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "pt_015",
+        "pt_016",
+        "pt_005",
+        "pt_025",
+        "pt_022"
+      ],
+      "expected_ids": [
+        "pt_004",
+        "pt_005",
+        "pt_008",
+        "ex_023",
+        "ex_034"
+      ]
+    },
+    {
+      "query_id": "tq_012",
+      "query": "Exercises for better posture",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "ex_010",
+        "ex_023",
+        "ex_022",
+        "ex_019",
+        "ex_047"
+      ],
+      "expected_ids": [
+        "ex_023",
+        "ex_026",
+        "ex_034",
+        "pt_004",
+        "pt_008"
+      ]
+    },
+    {
+      "query_id": "tq_013",
+      "query": "Carpal tunnel prevention for programmers",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.8,
+      "retrieved_ids": [
+        "ex_003",
+        "ex_045",
+        "pt_007",
+        "ex_015",
+        "pt_014"
+      ],
+      "expected_ids": [
+        "ex_045",
+        "ex_003",
+        "ex_015",
+        "ex_025",
+        "pt_007"
+      ]
+    },
+    {
+      "query_id": "tq_014",
+      "query": "Stress and anxiety relief at work",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "wa_015",
+        "wa_008",
+        "wa_018",
+        "wa_011",
+        "wa_010"
+      ],
+      "expected_ids": [
+        "ex_006",
+        "ex_012",
+        "ex_027",
+        "wa_010",
+        "wa_015"
+      ]
+    },
+    {
+      "query_id": "tq_015",
+      "query": "What snacks should I eat at my desk?",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.6,
+      "retrieved_ids": [
+        "wa_006",
+        "wa_021",
+        "wa_014",
+        "wa_003",
+        "ex_007"
+      ],
+      "expected_ids": [
+        "wa_006",
+        "wa_021",
+        "wa_014"
+      ]
+    },
+    {
+      "query_id": "tq_016",
+      "query": "My legs feel numb from sitting too long",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 0.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.25,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_002",
+        "pt_004",
+        "pt_019",
+        "pt_020",
+        "ex_038"
+      ],
+      "expected_ids": [
+        "ex_009",
+        "ex_024",
+        "ex_038",
+        "ex_013",
+        "pt_020"
+      ]
+    },
+    {
+      "query_id": "tq_017",
+      "query": "How to sleep better as a workaholic",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "wa_012",
+        "wa_003",
+        "wa_025",
+        "wa_004",
+        "wa_009"
+      ],
+      "expected_ids": [
+        "wa_005",
+        "wa_012",
+        "wa_009",
+        "ex_018"
+      ]
+    },
+    {
+      "query_id": "tq_018",
+      "query": "Hip tightness from prolonged sitting",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_019",
+        "ex_009",
+        "pt_020",
+        "ex_017",
+        "pt_004"
+      ],
+      "expected_ids": [
+        "ex_009",
+        "ex_029",
+        "ex_033",
+        "pt_020"
+      ]
+    },
+    {
+      "query_id": "tq_019",
+      "query": "2 minute break ideas at my desk",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 0.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.25,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "wa_011",
+        "wa_006",
+        "wa_024",
+        "wa_007",
+        "wa_022"
+      ],
+      "expected_ids": [
+        "wa_010",
+        "ex_048",
+        "pt_019",
+        "ex_050",
+        "wa_007"
+      ]
+    },
+    {
+      "query_id": "tq_020",
+      "query": "Upper back pain between shoulder blades",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 0.0,
+      "hit_rate_at_5": 0.0,
+      "mrr": 0.0,
+      "precision_at_5": 0.0,
+      "retrieved_ids": [
+        "pt_009",
+        "pt_005",
+        "pt_017",
+        "ex_016",
+        "pt_003"
+      ],
+      "expected_ids": [
+        "ex_022",
+        "ex_043",
+        "ex_034",
+        "ex_005"
+      ]
+    },
+    {
+      "query_id": "tq_021",
+      "query": "How much water should I drink at work",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "wa_002",
+        "wa_006",
+        "wa_023",
+        "wa_004",
+        "wa_019"
+      ],
+      "expected_ids": [
+        "wa_002"
+      ]
+    },
+    {
+      "query_id": "tq_022",
+      "query": "Tingling in my fingers when typing",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_007",
+        "pt_003",
+        "pt_014",
+        "ex_045",
+        "pt_011"
+      ],
+      "expected_ids": [
+        "ex_045",
+        "ex_003",
+        "ex_015",
+        "pt_007"
+      ]
+    },
+    {
+      "query_id": "tq_023",
+      "query": "Best position for dual monitors",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.4,
+      "retrieved_ids": [
+        "pt_010",
+        "pt_001",
+        "pt_006",
+        "pt_021",
+        "pt_011"
+      ],
+      "expected_ids": [
+        "pt_010",
+        "pt_001"
+      ]
+    },
+    {
+      "query_id": "tq_024",
+      "query": "I can't focus and my mind is foggy",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "ex_020",
+        "wa_010",
+        "wa_001",
+        "ex_049",
+        "pt_018"
+      ],
+      "expected_ids": [
+        "ex_027",
+        "wa_019",
+        "wa_010",
+        "ex_048",
+        "wa_004"
+      ]
+    },
+    {
+      "query_id": "tq_025",
+      "query": "Standing desk tips and proper usage",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 0.5,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "pt_002",
+        "pt_012",
+        "pt_021",
+        "pt_023",
+        "pt_008"
+      ],
+      "expected_ids": [
+        "pt_012",
+        "pt_022"
+      ]
+    },
+    {
+      "query_id": "tq_026",
+      "query": "Calming exercise before an important meeting",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.6,
+      "retrieved_ids": [
+        "wa_010",
+        "wa_013",
+        "ex_006",
+        "pt_016",
+        "ex_037"
+      ],
+      "expected_ids": [
+        "ex_012",
+        "ex_006",
+        "ex_037",
+        "wa_010"
+      ]
+    },
+    {
+      "query_id": "tq_027",
+      "query": "My jaw is clenched and tight from stress",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.6,
+      "retrieved_ids": [
+        "wa_008",
+        "wa_015",
+        "ex_044",
+        "wa_010",
+        "ex_037"
+      ],
+      "expected_ids": [
+        "wa_008",
+        "wa_015",
+        "ex_037"
+      ]
+    },
+    {
+      "query_id": "tq_028",
+      "query": "How to take regular breaks using pomodoro",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.2,
+      "retrieved_ids": [
+        "wa_007",
+        "wa_024",
+        "wa_011",
+        "wa_017",
+        "wa_022"
+      ],
+      "expected_ids": [
+        "wa_007",
+        "pt_019"
+      ]
+    },
+    {
+      "query_id": "tq_029",
+      "query": "Simple exercises that need no equipment at my desk",
+      "hit_rate_at_1": 0.0,
+      "hit_rate_at_3": 0.0,
+      "hit_rate_at_5": 0.0,
+      "mrr": 0.0,
+      "precision_at_5": 0.0,
+      "retrieved_ids": [
+        "ex_032",
+        "ex_007",
+        "ex_030",
+        "ex_039",
+        "ex_034"
+      ],
+      "expected_ids": [
+        "ex_001",
+        "ex_002",
+        "ex_004",
+        "ex_010",
+        "ex_050"
+      ]
+    },
+    {
+      "query_id": "tq_030",
+      "query": "Weekend recovery after intense work week",
+      "hit_rate_at_1": 1.0,
+      "hit_rate_at_3": 1.0,
+      "hit_rate_at_5": 1.0,
+      "mrr": 1.0,
+      "precision_at_5": 0.6,
+      "retrieved_ids": [
+        "wa_025",
+        "wa_012",
+        "wa_017",
+        "wa_007",
+        "wa_020"
+      ],
+      "expected_ids": [
+        "wa_025",
+        "wa_012",
+        "wa_017"
+      ]
+    }
+  ]
+}
