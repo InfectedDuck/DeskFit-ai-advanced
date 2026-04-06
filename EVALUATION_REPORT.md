@@ -1,6 +1,6 @@
 # DeskFit AI RAG Evaluation Report
 
-**Generated:** 2026-04-04 12:00 UTC
+**Generated:** 2026-04-06 13:35 UTC
 
 ## 1. Metrics Definition and Selection
 
@@ -79,8 +79,8 @@ for the LLM to filter through.
 
 ## 3. Baseline Results
 
-**Timestamp:** 2026-04-04T11:59:55.275654+00:00
-**Retrieval time:** 4.09s for 30 queries
+**Timestamp:** 2026-04-06T13:33:54.893070+00:00
+**Retrieval time:** 9.36s for 30 queries
 
 | Metric | Value |
 |--------|-------|
@@ -209,8 +209,8 @@ User Query
 
 ## 5. Enhanced Results (Iteration 1: Hybrid + Re-ranking)
 
-**Timestamp:** 2026-04-04T12:00:09.864595+00:00
-**Retrieval time:** 14.57s for 30 queries
+**Timestamp:** 2026-04-06T13:34:53.139400+00:00
+**Retrieval time:** 23.31s for 30 queries
 
 | Metric | Value |
 |--------|-------|
@@ -247,9 +247,9 @@ User Query
 
 ### Latency Impact
 
-- Baseline: 4.09s total (0.14s/query)
-- Enhanced: 14.57s total (0.49s/query)
-- The cross-encoder adds ~0.35s per query
+- Baseline: 9.36s total (0.31s/query)
+- Enhanced: 23.31s total (0.78s/query)
+- The cross-encoder adds ~0.46s per query
   -- acceptable for a chat interface where LLM generation takes 1-3s anyway.
 
 ### Per-Query Improvement Analysis

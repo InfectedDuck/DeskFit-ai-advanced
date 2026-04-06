@@ -74,6 +74,7 @@ class HybridRetriever:
                 }
 
         # Add BM25 results (merge, don't overwrite)
+        bm25_only_ids = []
         for doc_id, bm25_score in bm25_results:
             if doc_id in candidates:
                 candidates[doc_id]["bm25_score"] = bm25_score
@@ -81,6 +82,7 @@ class HybridRetriever:
             else:
                 doc_text = self._bm25.get_document_text(doc_id)
                 if doc_text:
+                    bm25_only_ids.append(doc_id)
                     candidates[doc_id] = {
                         "id": doc_id,
                         "document": doc_text,
@@ -89,6 +91,15 @@ class HybridRetriever:
                         "bm25_score": bm25_score,
                         "source": "bm25",
                     }
+
+        # Fetch metadata from ChromaDB for BM25-only results
+        if bm25_only_ids:
+            chroma_data = self._vector_db.collection.get(
+                ids=bm25_only_ids, include=["metadatas"]
+            )
+            for doc_id, metadata in zip(chroma_data["ids"], chroma_data["metadatas"]):
+                if doc_id in candidates:
+                    candidates[doc_id]["metadata"] = metadata or {}
 
         candidate_list = list(candidates.values())
 

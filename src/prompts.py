@@ -56,7 +56,7 @@ def format_context(chunks: list[dict]) -> str:
         metadata = chunk.get("metadata", {})
         doc_type = metadata.get("type", "unknown").replace("_", " ").title()
         title = metadata.get("title", "Untitled")
-        distance = chunk.get("distance", 0)
+        distance = chunk.get("distance") or 0
         similarity = max(0, 1 - distance)  # Convert distance to similarity
 
         header = f"### [{i}] {doc_type}: {title} (relevance: {similarity:.0%})"
